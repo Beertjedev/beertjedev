@@ -8,7 +8,7 @@
 
 ## Here are my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=beertjedev&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285">
+<img src="https://github-readme-stats.vercel.app/api?username=beertjedev&show_icons=true&theme=radical&include_all_commits=true">
 |--|--|
 
 <br>
