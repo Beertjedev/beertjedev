@@ -1,8 +1,9 @@
 **Programming Languages**
 
-| Python | JavaScript | TypeScript | C | Lua | Java | HTML |
-|--------|------------|------------|---|-----|------|------|
-| <img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img alt="Lua" title="Lua" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"> | <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"> | <img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> |
+| Python | JavaScript | TypeScript | C | Lua | Java | HTML | MySQL | CSS |
+|--------|------------|------------|---|-----|------|------|-------|-----|
+| <img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> | <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> | <img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img alt="Lua" title="Lua" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"> | <img alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"> | <img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"> | <img alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> | <img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"> |
+
 
 
 ## Some of my stats :bar_chart:
