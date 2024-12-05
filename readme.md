@@ -9,7 +9,6 @@
 ## Here are my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=beertjedev&show_icons=true&theme=radical&include_all_commits=true">
-|--|--|
 
 <br>
 
